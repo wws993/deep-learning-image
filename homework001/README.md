@@ -4,4 +4,4 @@ homework001 from
 dataset from
 [kaggle](https://www.kaggle.com/competitions/ml2022spring-hw1/data)
 
-I finished the 'trainer' function, while others are from the lesson's TAs.
+I finished the 'trainer' function, while other functions are from the lecture's TAs.
